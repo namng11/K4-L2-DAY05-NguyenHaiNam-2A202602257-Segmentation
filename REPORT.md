@@ -13,13 +13,13 @@
 | hard_panoptic | hard_panoptic.zip | 2 / 2 | 30 |
 | cp1_holes | cp1_holes.zip | 1 / 1 | 3 |
 | cp2_slice | cp2_slice.zip | 1 / 1 | 3 |
-| cp5_occlusion | chưa có | 0 / 1 | 3 |
+| cp5_occlusion | cp5_occlusion.zip | 1 / 1 | 3 |
 | cp3_thin | cp3_thin.zip | 1 / 1 | 3 |
 | cp4_curb | cp4_curb.zip | 1 / 1 | 3 |
-| cp6_coverage | chưa có | 0 / 1 | 3 |
+| cp6_coverage | cp6_coverage.zip | 1 / 1 | 3 |
 | **Tổng tối đa** | | | **100** |
 
-Ghi chú: cp5_occlusion và cp6_coverage chưa kịp hoàn thành trong giờ lab do hết thời gian. Dữ liệu trong CVAT đã được Save nhưng chưa export. Không tạo ZIP rỗng theo hướng dẫn.
+Tất cả 9 task đã hoàn thành và export đầy đủ. cp3_thin và cp6_coverage được export lại sau khi chỉnh sửa thêm để cải thiện độ phủ và biên.
 
 ## 2. Một quyết định trước khi dùng gợi ý
 
